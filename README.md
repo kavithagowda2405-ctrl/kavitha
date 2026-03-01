@@ -2,5 +2,4 @@ hi
 im kavitha k c
 im studying be in electronics and communications
 i love ece
-change
-change from remote
+thank you
